@@ -1,0 +1,54 @@
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0x0d48e1cc7e59b9d9916ed98755b8c50a31c84e550c706f0a96375bfb26a9fe16
+   > Blocks: 1            Seconds: 9
+   > contract address:    0x2C6712720D12B64501365F1bD5796D1B1b6ee0C9
+   > block number:        11070408
+   > block timestamp:     1632121243
+   > account:             0x39602393131d0732C6ABF4dcd90390dE0DCe3c03
+   > balance:             4.483869004595915341
+   > gas used:            245600 (0x3bf60)
+   > gas price:           1.94000001 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000476464002456 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 11070409)
+   > confirmation number: 2 (block: 11070410)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000476464002456 ETH
+
+
+2_Comfortable_migration .js
+===========================
+
+   Replacing 'Comfortable'
+   -----------------------
+   > transaction hash:    0x26f44a02a2a174778877905faa3a4cc345e66c8698d121b697803cca1944b2df
+   > Blocks: 1            Seconds: 133
+   > contract address:    0x89C73313B645b9C1fcC4D87A6F6EdBFAA1E4Cd81
+   > block number:        11070413
+   > block timestamp:     1632121297
+   > account:             0x39602393131d0732C6ABF4dcd90390dE0DCe3c03
+   > balance:             4.483014601432392029
+   > gas used:            394501 (0x60505)
+   > gas price:           1.940000008 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000765331943156008 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 2 (block: 11070415)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000765331943156008 ETH
+
